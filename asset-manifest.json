@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/react/static/css/main.264af51e.css",
+    "main.js": "/react/static/js/main.6ef5c2d2.js",
+    "static/media/address-location-map-svgrepo-com.svg": "/react/static/media/address-location-map-svgrepo-com.d77558c47b702f8e781e3cf480840f49.svg",
+    "static/media/email-8-svgrepo-com.svg": "/react/static/media/email-8-svgrepo-com.68f25a7ccd73f7a88de37b80795fbe3c.svg",
+    "static/media/linkedin-outline-svgrepo-com.svg": "/react/static/media/linkedin-outline-svgrepo-com.9b31846bbc0adb227a482d8e162bc797.svg",
+    "static/media/phone-svgrepo-com.svg": "/react/static/media/phone-svgrepo-com.d28f495122274c1ec9a6bc9c3b5f4f9a.svg",
+    "index.html": "/react/index.html",
+    "main.264af51e.css.map": "/react/static/css/main.264af51e.css.map",
+    "main.6ef5c2d2.js.map": "/react/static/js/main.6ef5c2d2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.264af51e.css",
+    "static/js/main.6ef5c2d2.js"
+  ]
+}
